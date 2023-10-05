@@ -2,8 +2,7 @@
 
 Index
 # Under Construction
-<a name="abcd"></a>
-[link text](#abcd)
+Check the wiki for the contents section info, later I will connect the links.
 ## Git Purpose
 I've created this Git repository with the goal of tracking my studies for the AWS Cloud Practitioner certification. With that in mind, please be aware that every piece of information contained here may be incorrect, as at the time of writing, I am not a cloud specialist. Therefore, take every piece of information with a grain of salt. However, all the questions here are real questions that I have collected from mock tests.  
 
