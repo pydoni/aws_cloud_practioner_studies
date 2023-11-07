@@ -9,7 +9,7 @@ If you identify any incoherences feel free to send a PR.
 
 ## Table of Contents
 
-* [1. Cloud Computing introduction](wiki/1.-Cloud-Computing-Introduction)
+* [1. Cloud Computing introduction](https://github.com/pydoni/aws_cloud_practioner_studies/wiki/1.-Cloud-Computing-Introduction)
 * [2. AWS Global Infrastructure](wiki/2.-AWS-Global-Infraestructure)
 * [3. AWS Shared Responsability model](wiki/3.-AWS-Shared-Responsabity-Model)
 * [4. AWS Well Architected Framework](wiki/4.-AWS-Well‐Architected-Framework)
