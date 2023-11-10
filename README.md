@@ -1,9 +1,13 @@
 # AWS Cloud Practioner Studies
 ## Git Purpose
-I've created this Git repository with the goal of tracking my studies for the AWS Cloud Practitioner certification. With that in mind, please be aware that every piece of information contained here may be incorrect, as at the time of writing, I am not a cloud specialist. Therefore, take every piece of information with a grain of salt. However, all the questions here are real questions that I have collected from mock tests.  
+I've created this Git repository with the goal of tracking my studies for the AWS Cloud Practitioner certification. With that in mind, please be aware that every piece of information contained here may be incorrect, as at the time of writing, I am not a cloud specialist. Therefore, take every piece of information with a grain of salt. 
 
 
 Also as my goal is to study to the Cloud Practioner certification, I invested my time only in the services that usually appears in questions.  
+
+I've practiced mock testes from this udemy Course, it has a good amount of questions and it tracks your mistakes and explains where you got wrong.
+
+https://www.udemy.com/share/1013ma3@w6Ue4mObNZOzCA6G9XzxnOjxXWiL1OFsV61FoJ__3hy5AxH9M6Iay4GG-C6wIz3x/
 
 If you identify any incoherences feel free to send a PR.
 
